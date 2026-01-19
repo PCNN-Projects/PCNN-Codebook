@@ -5,8 +5,7 @@ This repository contains the harmonized codebook developed for the Post-COVID Ne
 ---
 
 ## Repository Structure
-- `Codebook.xlsx` a simplified and structured version of the codebook, containing all variables, themes, labels, ontology mappings, and value codings
-- `Network_codebook-completeversion (xlsx & json)` – complete internal version, Contains provenance tracking, and review documentation .
+- `Codebook.xlsx` a simplified and structured version of the codebook, containing all variables, themes, labels, ontology mappings, and value codings (not Updated)
 - `themes_and_subdomains.md` – A categorized list of all Themes and Subdomains used in the codebook.
 - `instruments_overview.md` – Summary of all validated instruments and questionnaires represented in the codebook. ( will be updated)
 ---
