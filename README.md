@@ -40,22 +40,12 @@ Note: This version will be updated periodically as ontology mappings and metadat
 
 ---
 
-
-**Aim:
-To serve as the main working document for the FAIRification process, including:
-- variable-level ontology mapping
-- review tracking (checked_by, FAIR_code_reviewed_by)
-- harmonization across multiple data sources
-- version management and provenance documentation
-
  File formats:
-Both .xlsx (for human readability) and .json (for machine-readability, integration and maintenance).
+ .xlsx (for human readability) 
 
 ##  Notes
 
 - A number of variables and FAIR ontology mappings are currently under internal and external review. These elements will be gradually refined and expanded in subsequent releases, based on expert input and consortium-wide feedback.
-- Future updates will include the addition of new instruments such as **Beighton Score** and **FUNCAP-27**, as well as expanded support for structured metadata.
-
 ---
 
 ##  Contact
