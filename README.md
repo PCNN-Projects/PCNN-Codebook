@@ -41,7 +41,7 @@ Note: This version will be updated periodically as ontology mappings and metadat
 ---
 
 
-**َAim:
+**Aim:
 To serve as the main working document for the FAIRification process, including:
 - variable-level ontology mapping
 - review tracking (checked_by, FAIR_code_reviewed_by)
