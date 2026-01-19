@@ -12,12 +12,11 @@ This repository contains the harmonized codebook developed for the Post-COVID Ne
 
 ## Purpose
 
-This repository contains two main versions of the Post-COVID Network Netherlands (PCNN) harmonized codebook.
 The codebooks aim to support data harmonization, FAIRification, and ontology alignment across different data sources and studies within the PCNN initiative.
 
 ---
 
-##  1. codebook.xlsx — Researcher-Friendly Version (⚠️not updated)
+##   codebook.xlsx — Researcher-Friendly Version 
 This is a simplified and structured version of the codebook, designed for researchers who want to understand the available variables and metadata.
 It includes key descriptive and FAIR-relevant columns needed for data interpretation and integration.
 
@@ -41,12 +40,6 @@ It includes key descriptive and FAIR-relevant columns needed for data interpreta
 Note: This version will be updated periodically as ontology mappings and metadata validation progress.
 
 ---
-
-## 2. Network_codebook-completeversion (.xlsx & .json)
-
-This is the comprehensive internal version of the PCNN codebook.
-It contains all metadata fields used for FAIRification, ontology mapping, provenance tracking, and review documentation.
-It merges multiple source-specific codebooks (Portal, Biobank, Platform Trials, Expertise Clinics) and records reviewer input and proposed FAIR terms.
 
 
 **َAim:
